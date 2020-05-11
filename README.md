@@ -1,6 +1,10 @@
 # CS4300Final
 Final Report and Notebooks
 
+The notebooks seem to get stuck where I uploaded the data, so links for each of them follow:
+Final Project CS4300: https://colab.research.google.com/drive/1V7CcP5j0CAPeRGAGOF_8y3uqjeW2o18u
+Messy Project: https://colab.research.google.com/drive/1iIyWl9gN59tIYsQQJdMRHg5dpNRCvGmJ
+
 The Final Report pdf contains a somewhat simplified version of my original report to reduce it to under 10 pages. The resulting document is 7 pages and adds some consideration for modeling off of inputs that can be known earlier, before the output would be known.
 
 The Phase 3 Report contains the older and longer version I turned in for part 3.
