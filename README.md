@@ -1,4 +1,4 @@
-# CS4300Final
+# CS 4300 Final Project
 Final Report and Notebooks
 
 The notebooks seem to get stuck where I uploaded the data, so links for each of them follow:
